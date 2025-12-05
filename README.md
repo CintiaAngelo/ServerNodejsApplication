@@ -1,2 +1,1 @@
-# server-nodejs-application
 # ServerNodejsApplication
